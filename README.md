@@ -1,4 +1,4 @@
-### Hi there 👋
+I'm a Senior Researcher at [Oracle Labs](https://labs.oracle.com/) working on GraalVM. Currently working on TruffleRuby. 
 
 <!--
 **horakivo/horakivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
